@@ -85,6 +85,8 @@ public class Main {
             else {
                 System.out.println("максимальное число в переменной three, равно "+ three);
 
+
+
             }
         }
 
